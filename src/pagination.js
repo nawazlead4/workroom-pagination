@@ -50,6 +50,7 @@ const WorkroomPagination = ({ currentPage, onPageChange, totalPages, position })
         <>
 
             <div style={{ float: position, marginRight: '10px' }}>
+                {console.log(`totalPages: ${totalPages}, currentPage: ${currentPage}`)}
                 {totalPages > 0 && (<Pagination>
                     {generatePageItems()}
                 </Pagination>

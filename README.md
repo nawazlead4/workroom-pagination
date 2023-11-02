@@ -27,6 +27,6 @@ export default MyComponent;
 # Props
 | Prop        | Type           | Description  |
 | ------------- |:-------------:| -----:|
-| currentPage      | Int | $1600 | The current page number |
+| currentPage      | Int | The current page number |
 | totalPages      | Int      |   Total number of pages to be displayed.  |
 | onPageChange | function      |  The call back function which should be triggered when the user changes the page from pagination.   |

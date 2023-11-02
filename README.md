@@ -1,6 +1,6 @@
 # workroom-pagination
 
-The workroom-pagination library exported as a [UMD](https://github.com/umdjs/umd) module.
+The workroom-pagination library is provided to simplify the bootstrap process.
 
 # Installation
 Using npm:
